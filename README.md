@@ -2,7 +2,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Saphal</h1>
-<h3 align="center">I'm a passionate Javascript Developer from Nepal <img src="https://img.icons8.com/color/18/000000/nepal.png"/>.</h3>
+<h3 align="center">I'm a passionate java + Javascript Developer from Nepal <img src="https://img.icons8.com/color/18/000000/nepal.png"/>.</h3>
 
 
 ## 🙋‍♂️ About Me
