@@ -15,7 +15,7 @@
 
 - 🌐 Check out my work on **[My Portfolio]()** — where code meets creativity.
 
-- 📬 Let's connect: **saphalghorsaini@gmail.com**
+- 📬 Let's connect: **iamsaphal21@gmail.com**
 
 - ⚽ When I'm not coding, you’ll find me at the futsal court or diving into a good book.
 
