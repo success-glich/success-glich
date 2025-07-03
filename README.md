@@ -2,22 +2,22 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Saphal</h1>
-<h3 align="center">I'm a passionate java + Javascript Developer from Nepal <img src="https://img.icons8.com/color/18/000000/nepal.png"/>.</h3>
+<h3 align="center">I'm a passionate Java(OOP) + Javascript Developer from Nepal <img src="https://img.icons8.com/color/18/000000/nepal.png"/>.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently studying on **[Patan Multiple Campus (BCA)](https://covid-19-tracker-e4bda.web.app/)**
+- 💻 I'm a **Software Engineer** with a passion for building scalable systems and sleek user experiences.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🔍 Actively exploring **Data Structures & Algorithms** to sharpen my problem-solving toolkit.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🤝 Always up for collaborating on **Open Source Projects** and meaningful tech initiatives.
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]()**
+- 🌐 Check out my work on **[My Portfolio]()** — where code meets creativity.
 
-- 📫 How to reach me **saphalghorsaini@gmail.com**
+- 📬 Let's connect: **saphalghorsaini@gmail.com**
 
-- ⚡ Fun fact **I read books and go to the futsal very often.**
+- ⚽ When I'm not coding, you’ll find me at the futsal court or diving into a good book.
 
 ## 🚀 Languages and Tools:
 
